@@ -7,4 +7,4 @@ A javascript chart library implemented using the D3 library
 
 #### Inside the root directory:
 
-* `$ grunt` - runs watch, jshint and auto reloads on saves
+* `$ grunt` - runs watch, jshint and auto reloads on save
